@@ -1,1 +1,1 @@
-export const server_url='https://media-server-uqpx.onrender.com/'
+export const server_url='https://media-server-uqpx.onrender.com'
